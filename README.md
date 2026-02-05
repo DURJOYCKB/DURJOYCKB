@@ -53,17 +53,16 @@
 
 🔹 **✅ To-Do List App**  
 📝 A modern task manager with localStorage, dark mode, and progress tracking.  
-🔗 Repo: https://github.com/DURJOYCKB/todo-app  
+🔗 Repo: https://github.com/DURJOYCKB/To-Do-List  
 🌐 Live: https://my-to-do-list-umber-sigma.vercel.app/ 
 
 🔹 **📅 Dynamic Calendar App**  
 📆 A calendar app with dynamic date navigation, month switching, and clean UI.  
-🔗 Repo: https://github.com/DURJOYCKB/dynamic-calendar  
+🔗 Repo: https://github.com/DURJOYCKB/Dynamic-calender  
 🌐 Live: https://dynamic-calender-ckb.vercel.app/
 
 🔹 **🚗 Car Rental Website**  
 🚘 A responsive car rental website with modern UI, car listings, and booking-style layout.  
-🔗 Repo: https://github.com/DURJOYCKB/car-rental-website  
 
 
 🔹 **🛠️ Arduino Projects**  
@@ -71,8 +70,7 @@
 🔗 Repo: https://github.com/DURJOYCKB/arduino-projects  
 
 🔹 **📊 Beginner ML Projects**  
-🤖 Small ML projects using datasets and Scikit-learn.  
-🔗 Repo: https://github.com/DURJOYCKB/ml-projects  
+🤖 Small ML projects using datasets and Scikit-learn.    
 
 ---
 
