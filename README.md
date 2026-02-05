@@ -1,6 +1,10 @@
 <h1 align="center">
   Hi 👋, I'm Durjoy Chakraborty
 </h1>
+<p align="center">
+  <img src="https://github.com/DURJOYCKB.png" width="160" style="border-radius: 50%;" />
+</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Frontend+Developer;JavaScript+%7C+React+%7C+Tailwind;Learning+Node.js+%26+TypeScript;Beginner+in+Machine+Learning" />
@@ -90,7 +94,7 @@
 <p>
   🔗 LinkedIn: https://www.linkedin.com/in/durjoyckb/ <br>
   🌐 Portfolio: https://durjoyckb.vercel.app/ <br>
-  📘 Facebook: https://facebook.com/https://www.facebook.com/durjoy.chakraborty.834422
+  📘 Facebook: https://www.facebook.com/durjoy.chakraborty.834422
 </p>
 
 ---
