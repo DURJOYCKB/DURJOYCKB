@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Frontend+Developer;JavaScript+%7C+React+%7C+Tailwind;Learning+Node.js+%26+TypeScript;Beginner+in+Machine+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Frontend+Developer;JavaScript+%7C+React+%7C+Tailwind;Learning+Node.js+%26+TypeScript;Beginner+in+Machine+Learning" />
 </p>
 
 <p align="center">
@@ -79,20 +79,20 @@
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DURJOYCKB&show_icons=true&theme=tokyo-night" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DURJOYCKB&layout=compact&theme=tokyo-night" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DURJOYCKB&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DURJOYCKB&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DURJOYCKB&theme=tokyo-night" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=DURJOYCKB&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DURJOYCKB&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DURJOYCKB&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DURJOYCKB&theme=tokyo-night&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DURJOYCKB&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" />
 </p>
 
 ---
