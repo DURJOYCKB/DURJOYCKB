@@ -2,7 +2,7 @@
   Hi 👋, I'm Durjoy Chakraborty
 </h1>
 <p align="center">
-  <img src="https://github.com/DURJOYCKB.png" width="160" style="border-radius: 50%;" />
+  <img src="https://github.com/DURJOYCKB.png" width="180" style="border-rounded: 50%;" />
 </p>
 
 
@@ -12,10 +12,6 @@
 
 <p align="center">
   🚀 A passionate learner & developer from Bangladesh 🇧🇩
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DURJOYCKB&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
