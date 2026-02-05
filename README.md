@@ -99,12 +99,29 @@
 
 ## 🌍 Connect With Me
 
-<p>
-  🔗 LinkedIn: https://www.linkedin.com/in/durjoyckb/ <br>
-  🌐 Portfolio: https://durjoyckb.vercel.app/ <br>
-  📘 Facebook: https://www.facebook.com/durjoy.chakraborty.834422
+<p align="center">
+  <a href="https://www.linkedin.com/in/durjoyckb/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://durjoyckb.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/durjoy.chakraborty.834422" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="mailto:durjoyckb@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
+---
+## 🎥 My YouTube Channel
+
+<p align="center">
+  <a href="https://www.youtube.com/@durjoy_ckb" target="_blank">
+    <img src="https://img.shields.io/badge/Subscribe%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
 ---
 
 ⭐ Thanks for visiting my profile! Feel free to check out my projects 😊
