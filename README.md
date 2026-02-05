@@ -79,12 +79,12 @@
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DURJOYCKB&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DURJOYCKB&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DURJOYCKB&show_icons=true&theme=tokyo-night" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DURJOYCKB&layout=compact&theme=tokyo-night" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DURJOYCKB&theme=tokyonight" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=DURJOYCKB&theme=tokyo-night" height="170"/>
 </p>
 
 <p align="center">
@@ -92,7 +92,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DURJOYCKB&theme=tokyonight&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DURJOYCKB&theme=tokyo-night&margin-w=10&margin-h=10" />
 </p>
 
 ---
