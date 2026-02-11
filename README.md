@@ -51,6 +51,17 @@
 
 ## 📌 Featured Projects
 
+🔹 **🌦️ Weather Forecast Website**  
+☁️ A responsive weather forecast website using OpenWeather API to show real-time weather updates.  
+🔗 Repo: https://github.com/DURJOYCKB/weather-app 
+🌐 Live: https://weather-forecast-app-ten-weld.vercel.app/
+
+
+🔹 **🛠️ Arduino Projects**  
+⚡ Gas sensor + LCD based projects using Arduino.  
+🔗 Repo: https://github.com/DURJOYCKB/arduino-projects  
+
+
 🔹 **✅ To-Do List App**  
 📝 A modern task manager with localStorage, dark mode, and progress tracking.  
 🔗 Repo: https://github.com/DURJOYCKB/To-Do-List  
@@ -64,10 +75,6 @@
 🔹 **🚗 Car Rental Website**  
 🚘 A responsive car rental website with modern UI, car listings, and booking-style layout.  
 
-
-🔹 **🛠️ Arduino Projects**  
-⚡ Gas sensor + LCD based projects using Arduino.  
-🔗 Repo: https://github.com/DURJOYCKB/arduino-projects  
 
 🔹 **📊 Beginner ML Projects**  
 🤖 Small ML projects using datasets and Scikit-learn.    
