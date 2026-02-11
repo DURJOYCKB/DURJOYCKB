@@ -3,7 +3,7 @@
   
   <h1>Hey there! 👋 I'm Durjoy Chakraborty</h1>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3800&pause=900&color=36BCF7&center=true&vCenter=true&width=580&lines=Frontend+Developer+%F0%9F%8C%90;React+%7C+Tailwind+%7C+JavaScript;Leveling+up+to+Full-Stack;Node.js+%26+TypeScript;Exploring+Machine+Learning" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3800&pause=900&color=36BCF7&center=true&vCenter=true&width=580&lines=Frontend+Developer+%F0%9F%8C%90;React+%7C+Tailwind+%7C+JavaScript;Node.js+%26+TypeScript;Exploring+Machine+Learning" alt="Typing animation" />
   
   <p>🚀 Passionate about crafting beautiful, responsive UIs — from Bangladesh 🇧🇩</p>
 
