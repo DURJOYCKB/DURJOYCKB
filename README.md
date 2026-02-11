@@ -26,10 +26,11 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🌱 Right now: Sharpening **React** & **Tailwind**, diving deeper into **Node.js**, **TypeScript**, and **ML basics**
-- 🔨 Hands-on learner — I build real projects to level up fast
-- 🎯 2026 Focus: Ship full-stack apps, contribute to open source, land my first dev role/internship
-- 📬 Let's connect: durjoyckb@gmail.com
+- 🎨 **Frontend-focused developer** passionate about creating clean, responsive, and user-friendly web experiences with **React**, **Tailwind CSS**, and modern JavaScript.
+- 🌱 Currently leveling up: Deepening **React** architecture, mastering **TypeScript** for scalable apps, exploring **Node.js** for full-stack capabilities, and dipping into **Machine Learning** basics.
+- 🔨 Hands-on builder — I ship real-world projects (web apps + hardware prototypes) to solidify concepts and solve practical problems.
+- 🎯 2026 roadmap: Launch 3–5 production-ready full-stack applications, make meaningful open-source contributions, and secure my first **frontend/full-stack developer role** or internship.
+- 📬 Open to collaboration, feedback, or just chatting code — reach me at **durjoyckb@gmail.com**
 
 ---
 
@@ -47,6 +48,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
 </div>
@@ -77,9 +79,28 @@
         <a href="https://github.com/DURJOYCKB/Dynamic-calender">Repo</a> • <a href="https://dynamic-calender-ckb.vercel.app/">Live</a>
       </td>
     </tr>
+    <tr style="height: 30px;"></tr> <!-- spacer row -->
+    <tr>
+      <td align="center" width="33%">
+        <h3>⚡ Arduino Projects</h3>
+        <p>Gas sensor + LCD based detection & display systems</p>
+        <p><strong>Arduino • C++</strong></p>
+        <a href="https://github.com/DURJOYCKB/arduino-projects">Repo</a>
+      </td>
+      <td align="center" width="33%">
+        <h3>🚗 Car Rental Website</h3>
+        <p>Responsive landing page with car listings & booking UI</p>
+        <p><strong>HTML • CSS • Tailwind</strong></p>
+        <a href="https://github.com/DURJOYCKB/car-rental-website">Repo</a> <!-- update if the repo name is different -->
+        <!-- Add Live link once deployed, e.g. • <a href="...">Live</a> -->
+      </td>
+      <td align="center" width="33%">
+        <!-- Empty cell for balance – you can add another project later -->
+      </td>
+    </tr>
     <tr>
       <td align="center" colspan="3" style="padding-top:20px;">
-        <p>More → <a href="https://github.com/DURJOYCKB?tab=repositories">All Repositories</a></p>
+        <p>More projects → <a href="https://github.com/DURJOYCKB?tab=repositories">All Repositories</a></p>
       </td>
     </tr>
   </table>
@@ -101,6 +122,6 @@
 ---
 
 Thanks for checking out my profile! 🌟  
-Feel free to explore my projects, drop a star ⭐ if you like something, or just say hi — I'm always open to feedback & collaboration 😊
+Feel free to explore my projects (web or hardware!), drop a star ⭐ if you like something, or just say hi — I'm always open to feedback & collaboration 😊
 
 Made with ❤️ in Chattogram, Bangladesh
