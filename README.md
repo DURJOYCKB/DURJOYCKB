@@ -1,132 +1,106 @@
-<h1 align="center">
-  Hi 👋, I'm Durjoy Chakraborty
-</h1>
-<p align="center">
-  <img src="https://github.com/DURJOYCKB.png" width="180" style="border-rounded: 50%;" />
-</p>
+<div align="center">
+  <img height="180" src="https://github.com/DURJOYCKB.png" alt="avatar" style="border-radius:50%; border: 4px solid #36BCF7;" />
+  
+  <h1>Hey there! 👋 I'm Durjoy Chakraborty</h1>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3800&pause=900&color=36BCF7&center=true&vCenter=true&width=580&lines=Frontend+Developer+%F0%9F%8C%90;React+%7C+Tailwind+%7C+JavaScript;Leveling+up+to+Full-Stack;Node.js+%26+TypeScript;Exploring+Machine+Learning" alt="Typing animation" />
+  
+  <p>🚀 Passionate about crafting beautiful, responsive UIs — from Bangladesh 🇧🇩</p>
 
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Frontend+Developer;JavaScript+%7C+React+%7C+Tailwind;Learning+Node.js+%26+TypeScript;Beginner+in+Machine+Learning" />
-</p>
-
-<p align="center">
-  🚀 A passionate learner & developer from Bangladesh 🇧🇩
-</p>
-
----
-
-## 🧑‍💻 About Me
-- 🌱 Currently learning **Node.js, TypeScript, and Machine Learning**
-- 💻 Love building **real-world projects** to improve skills
-- 🎯 Goal: Become a skilled developer & work on impactful projects
-- 📫 Email: **durjoyckb@gmail.com**
-
----
-
-## 🛠️ Tech Stack
-
-### 🚀 Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-
-### 🌐 Frontend
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwindcss)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-
-### ⚙️ Backend (Learning)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-### 📊 ML Tools (Beginner)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+  <div>
+    <a href="https://www.linkedin.com/in/durjoyckb/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://durjoyckb.vercel.app/">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="mailto:durjoyckb@gmail.com">
+      <img src="https://img.shields.io/badge/Email-durjoyckb@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://www.youtube.com/@durjoy_ckb">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    </a>
+  </div>
+</div>
 
 ---
 
-## 📌 Featured Projects
-
-🔹 **🌦️ Weather Forecast Website**  
-☁️ A responsive weather forecast website using OpenWeather API to show real-time weather updates.  
-🔗 Repo: https://github.com/DURJOYCKB/weather-app 
-🌐 Live: https://weather-forecast-app-ten-weld.vercel.app/
-
-
-🔹 **🛠️ Arduino Projects**  
-⚡ Gas sensor + LCD based projects using Arduino.  
-🔗 Repo: https://github.com/DURJOYCKB/arduino-projects  
-
-
-🔹 **✅ To-Do List App**  
-📝 A modern task manager with localStorage, dark mode, and progress tracking.  
-🔗 Repo: https://github.com/DURJOYCKB/To-Do-List  
-🌐 Live: https://my-to-do-list-umber-sigma.vercel.app/ 
-
-🔹 **📅 Dynamic Calendar App**  
-📆 A calendar app with dynamic date navigation, month switching, and clean UI.  
-🔗 Repo: https://github.com/DURJOYCKB/Dynamic-calender  
-🌐 Live: https://dynamic-calender-ckb.vercel.app/
-
-🔹 **🚗 Car Rental Website**  
-🚘 A responsive car rental website with modern UI, car listings, and booking-style layout.  
-
-
-🔹 **📊 Beginner ML Projects**  
-🤖 Small ML projects using datasets and Scikit-learn.    
+### 🧑‍💻 About Me
+- 🌱 Right now: Sharpening **React** & **Tailwind**, diving deeper into **Node.js**, **TypeScript**, and **ML basics**
+- 🔨 Hands-on learner — I build real projects to level up fast
+- 🎯 2026 Focus: Ship full-stack apps, contribute to open source, land my first dev role/internship
+- 📬 Let's connect: durjoyckb@gmail.com
 
 ---
 
-## 📈 GitHub Analytics
+### 🛠️ Skills & Tools
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DURJOYCKB&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DURJOYCKB&layout=compact&theme=tokyonight" height="160"/>
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+</div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DURJOYCKB&theme=tokyonight" height="170"/>
-</p>
+<div align="center" style="margin: 12px 0;">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DURJOYCKB&theme=tokyonight" />
-</p>
+---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DURJOYCKB&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" />
-</p>
+### 🔥 Featured Projects
+
+<div align="center">
+  <table style="border:none; width:90%; margin:auto;">
+    <tr>
+      <td align="center" width="33%">
+        <h3>🌦️ Weather Forecast App</h3>
+        <p>Real-time weather with search & responsive design</p>
+        <p><strong>React • Tailwind • OpenWeather API</strong></p>
+        <a href="https://github.com/DURJOYCKB/weather-app">Repo</a> • <a href="https://weather-forecast-app-ten-weld.vercel.app/">Live</a>
+      </td>
+      <td align="center" width="33%">
+        <h3>✅ Modern To-Do List</h3>
+        <p>Dark mode, localStorage, progress tracking</p>
+        <p><strong>React • Tailwind</strong></p>
+        <a href="https://github.com/DURJOYCKB/To-Do-List">Repo</a> • <a href="https://my-to-do-list-umber-sigma.vercel.app/">Live</a>
+      </td>
+      <td align="center" width="33%">
+        <h3>📅 Dynamic Calendar</h3>
+        <p>Interactive month/year navigation & clean UI</p>
+        <p><strong>JavaScript • CSS</strong></p>
+        <a href="https://github.com/DURJOYCKB/Dynamic-calender">Repo</a> • <a href="https://dynamic-calender-ckb.vercel.app/">Live</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="3" style="padding-top:20px;">
+        <p>More → <a href="https://github.com/DURJOYCKB?tab=repositories">All Repositories</a></p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 🌍 Connect With Me
+### 📊 GitHub Activity
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/durjoyckb/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://durjoyckb.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/durjoy.chakraborty.834422" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="mailto:durjoyckb@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DURJOYCKB&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DURJOYCKB&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="top langs" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=DURJOYCKB&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="170" alt="streak" />
+</div>
 
 ---
-## 🎥 My YouTube Channel
 
-<p align="center">
-  <a href="https://www.youtube.com/@durjoy_ckb" target="_blank">
-    <img src="https://img.shields.io/badge/Subscribe%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-</p>
----
+Thanks for checking out my profile! 🌟  
+Feel free to explore my projects, drop a star ⭐ if you like something, or just say hi — I'm always open to feedback & collaboration 😊
 
-⭐ Thanks for visiting my profile! Feel free to check out my projects 😊
+Made with ❤️ in Chattogram, Bangladesh
