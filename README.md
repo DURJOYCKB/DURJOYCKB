@@ -64,7 +64,7 @@
         <h3>🌦️ Weather Forecast App</h3>
         <p>Real-time weather with search & responsive design</p>
         <p><strong>React • Tailwind • OpenWeather API</strong></p>
-        <a href="https://github.com/DURJOYCKB/weather-app">Repo</a> • <a href="https://weather-forecast-app-ten-weld.vercel.app/">Live</a>
+        <a href="https://github.com/DURJOYCKB/weather-app">Repo</a> • <a href="https://durjoyckb-forecast.vercel.app/">Live</a>
       </td>
       <td align="center" width="33%">
         <h3>✅ Modern To-Do List</h3>
