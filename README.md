@@ -33,6 +33,19 @@
 
 ---
 
+## 👨‍💻 About Me
+
+Hi! I'm **Durjoy Chakraborty**, a CSE Student and a passionate **Frontend Developer** who enjoys building modern, responsive, and interactive web applications.
+
+* 🌐 Skilled in **React, Tailwind CSS, and JavaScript**
+* ⚡ Focused on creating **clean UI, smooth UX, and responsive designs**
+* 🚀 Currently exploring **Node.js, TypeScript, and Machine Learning**
+* 🧠 Always learning and improving through **projects and new technologies**
+
+🎯 My goal is to build **beautiful, performant, and user-friendly web applications.**
+
+---
+
 ## 🔥 Featured Projects
 
 <div align="center">
@@ -42,7 +55,7 @@
 
 <td width="33%" valign="top">
 
-<img src="weather-preview.png"
+<img src="weather.png"
      width="100%"
      style="border-radius:14px;" />
 
@@ -62,7 +75,7 @@ Real-time weather search + responsive UI
 
 <td width="33%" valign="top">
 
-<img src="todo-preview.png"
+<img src="to-do-list.png"
      width="100%"
      style="border-radius:14px;" />
 
@@ -81,7 +94,7 @@ Dark mode + localStorage
 
 <td width="33%" valign="top">
 
-<img src="calendar-preview.png"
+<img src="calendar.png"
      width="100%"
      style="border-radius:14px;" />
 
@@ -104,7 +117,7 @@ Interactive navigation UI
 
 <td width="33%" valign="top">
 
-<img src="arduino-preview.png"
+<img src="gas1.png"
      width="100%"
      style="border-radius:14px;" />
 
@@ -117,12 +130,12 @@ Sensor systems + LCD display
 <br/><br/>
 
 [![Repo](https://img.shields.io/badge/Repo-0B1220?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DURJOYCKB/arduino-projects)
-
+[![Live](https://img.shields.io/badge/Live-36BCF7?style=for-the-badge&logo=vercel&logoColor=white)](https://www.youtube.com/watch?v=CVjn_lsuN90)
 </td>
 
 <td width="33%" valign="top">
 
-<img src="car-preview.png"
+<img src="car1.png"
      width="100%"
      style="border-radius:14px;" />
 
