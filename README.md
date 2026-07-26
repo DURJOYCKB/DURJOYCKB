@@ -69,7 +69,7 @@ Real-time weather search + responsive UI
 <br/><br/>
 
 [![Repo](https://img.shields.io/badge/Repo-0B1220?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DURJOYCKB/weather-app)
-[![Live](https://img.shields.io/badge/Live-36BCF7?style=for-the-badge&logo=vercel&logoColor=white)](https://durjoyckb-forecast.vercel.app/)
+[![Live](https://img.shields.io/badge/Live-36BCF7?style=for-the-badge&logo=vercel&logoColor=white)](https://forecast-app-ckb.vercel.app/)
 
 </td>
 
