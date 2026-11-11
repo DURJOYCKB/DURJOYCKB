@@ -1,33 +1,24 @@
-<div align="center">
+ <div align="center">
 
-  <h1>Hey there! 👋 I'm Durjoy Chakraborty</h1>
+# 👋 Hey, I'm Durjoy Chakraborty
 
-</div>
+### `Frontend Developer` · `CSE Student` · `Tech Enthusiast`
 
----
-
-<div align="center">
-
-<b>Explore my work, projects, and development journey.</b>
+<p>
+  <a href="https://durjoyckb.vercel.app/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 <br/>
 
-<a href="https://durjoyckb.vercel.app/" target="_blank">
-  <img
-    src="portfolio-preview.png"
-    width="130%"
-    style="border-radius:18px; border:2px solid #36BCF7; box-shadow:0 18px 45px rgba(0,0,0,0.35);" />
+<a href="https://durjoyckb.vercel.app/">
+  <img src="portfolio-preview.png" width="100%" alt="Portfolio Preview" />
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3800&pause=900&color=36BCF7&center=true&vCenter=true&width=580&lines=Frontend+Developer+%F0%9F%8C%90;React+%7C+Tailwind+CSS+%7C+JavaScript;Node.js+%26+TypeScript;Exploring+Machine+Learning" alt="Typing animation" />
-
-<br/>
-
-<a href="https://durjoyckb.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%8C%90;React+%7C+Tailwind+CSS+%7C+JavaScript;Node.js+%26+TypeScript;Exploring+Machine+Learning" alt="Typing SVG" />
 
 </div>
 
@@ -35,141 +26,126 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Durjoy Chakraborty**, a CSE Student and a passionate **Frontend Developer** who enjoys building modern, responsive, and interactive web applications.
+Hi! I'm **Durjoy Chakraborty**, a CSE Student and passionate **Frontend Developer** who enjoys turning ideas into modern, responsive, and interactive web applications.
 
-* 🌐 Skilled in **React, Tailwind CSS, and JavaScript**
-* ⚡ Focused on creating **clean UI, smooth UX, and responsive designs**
-* 🚀 Currently exploring **Node.js, TypeScript, and Machine Learning**
-* 🧠 Always learning and improving through **projects and new technologies**
+- 🌐 Skilled in **React, Tailwind CSS, and JavaScript**
+- ⚡ Focused on **clean UI, smooth UX, and responsive designs**
+- 🚀 Currently exploring **Node.js, TypeScript, and Machine Learning**
+- 🧠 Always learning and improving through **projects and new technologies**
 
 🎯 My goal is to build **beautiful, performant, and user-friendly web applications.**
 
 ---
 
-## 🔥 Featured Projects
-
-<div align="center">
+## 🚀 Featured Projects
 
 <table>
 <tr>
+<td width="50%" valign="top">
 
-<td width="33%" valign="top">
+<img src="weather.png" width="100%" alt="Weather App" />
 
-<img src="weather.png"
-     width="100%"
-     style="border-radius:14px;" />
+### 🌦️ Weather Forecast App
 
-### 🌦️ Weather Forecast App  
-Real-time weather search + responsive UI  
+Real-time weather search with a responsive interface.
 
 <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/API-OpenWeather-36BCF7?style=flat" />
 
-<br/><br/>
+<br/>
 
-[![Repo](https://img.shields.io/badge/Repo-0B1220?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DURJOYCKB/weather-app)
-[![Live](https://img.shields.io/badge/Live-36BCF7?style=for-the-badge&logo=vercel&logoColor=white)](https://forecast-app-ckb.vercel.app/)
+[![Repository](https://img.shields.io/badge/VIEW%20REPO-0B1220?style=for-the-badge&logo=github)](https://github.com/DURJOYCKB/weather-app)
+[![Live](https://img.shields.io/badge/LIVE%20DEMO-36BCF7?style=for-the-badge&logo=vercel&logoColor=white)](https://forecast-app-ckb.vercel.app/)
 
 </td>
+<td width="50%" valign="top">
 
-<td width="33%" valign="top">
+<img src="to-do-list.png" width="100%" alt="To Do List" />
 
-<img src="to-do-list.png"
-     width="100%"
-     style="border-radius:14px;" />
+### ✅ Modern To-Do List
 
-### ✅ Modern To-Do List  
-Dark mode + localStorage  
+Task management with dark mode and localStorage.
 
 <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
 
-<br/><br/>
+<br/>
 
-[![Repo](https://img.shields.io/badge/Repo-0B1220?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DURJOYCKB/To-Do-List)
-[![Live](https://img.shields.io/badge/Live-36BCF7?style=for-the-badge&logo=vercel&logoColor=white)](https://my-to-do-list-umber-sigma.vercel.app/)
+[![Repository](https://img.shields.io/badge/VIEW%20REPO-0B1220?style=for-the-badge&logo=github)](https://github.com/DURJOYCKB/To-Do-List)
+[![Live](https://img.shields.io/badge/LIVE%20DEMO-36BCF7?style=for-the-badge&logo=vercel&logoColor=white)](https://my-to-do-list-umber-sigma.vercel.app/)
 
 </td>
+</tr>
 
-<td width="33%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
-<img src="calendar.png"
-     width="100%"
-     style="border-radius:14px;" />
+<img src="calendar.png" width="100%" alt="Dynamic Calendar" />
 
-### 📅 Dynamic Calendar  
-Interactive navigation UI  
+### 📅 Dynamic Calendar
+
+Interactive calendar with dynamic navigation.
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
 
-<br/><br/>
+<br/>
 
-[![Repo](https://img.shields.io/badge/Repo-0B1220?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DURJOYCKB/Dynamic-calender)
-[![Live](https://img.shields.io/badge/Live-36BCF7?style=for-the-badge&logo=vercel&logoColor=white)](https://dynamic-calender-ckb.vercel.app/)
+[![Repository](https://img.shields.io/badge/VIEW%20REPO-0B1220?style=for-the-badge&logo=github)](https://github.com/DURJOYCKB/Dynamic-calender)
+[![Live](https://img.shields.io/badge/LIVE%20DEMO-36BCF7?style=for-the-badge&logo=vercel&logoColor=white)](https://dynamic-calender-ckb.vercel.app/)
 
 </td>
+<td width="50%" valign="top">
 
-</tr>
+<img src="gas1.png" width="100%" alt="Arduino Project" />
 
-<tr>
+### ⚡ Arduino Projects
 
-<td width="33%" valign="top">
-
-<img src="gas1.png"
-     width="100%"
-     style="border-radius:14px;" />
-
-### ⚡ Arduino Projects  
-Sensor systems + LCD display  
+Sensor-based systems with LCD display.
 
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
 
-<br/><br/>
+<br/>
 
-[![Repo](https://img.shields.io/badge/Repo-0B1220?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DURJOYCKB/arduino-projects)
-[![Live](https://img.shields.io/badge/Live-36BCF7?style=for-the-badge&logo=vercel&logoColor=white)](https://www.youtube.com/watch?v=CVjn_lsuN90)
+[![Repository](https://img.shields.io/badge/VIEW%20REPO-0B1220?style=for-the-badge&logo=github)](https://github.com/DURJOYCKB/arduino-projects)
+[![Video](https://img.shields.io/badge/WATCH%20VIDEO-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=CVjn_lsuN90)
+
 </td>
+</tr>
 
-<td width="33%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
-<img src="car1.png"
-     width="100%"
-     style="border-radius:14px;" />
+<img src="car1.png" width="100%" alt="Car Rental Website" />
 
-### 🚗 Car Rental Website  
-Responsive booking UI  
+### 🚗 Car Rental Website
+
+Responsive car rental and booking interface.
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
 
-<br/><br/>
+<br/>
 
-[![Repo](https://img.shields.io/badge/Repo-0B1220?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DURJOYCKB/car-rental-website)
+[![Repository](https://img.shields.io/badge/VIEW%20REPO-0B1220?style=for-the-badge&logo=github)](https://github.com/DURJOYCKB/car-rental-website)
 
 </td>
+<td width="50%" valign="top">
 
-<td width="33%" valign="top">
+<img src="coming-soon.png" width="100%" alt="Coming Soon" />
 
-<img src="coming-soon.png"
-     width="100%"
-     style="border-radius:14px;" />
+### ✨ Next Project
 
-### ✨ Next Project  
 Something exciting coming soon...
 
 <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
 
 </td>
-
 </tr>
-
 </table>
-
-</div>
 
 ---
 
@@ -177,17 +153,23 @@ Something exciting coming soon...
 
 <div align="center">
 
+### Frontend Development
+
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-
-<br/><br/>
-
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+### Backend & Programming
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+### Tools & Technologies
+
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 
@@ -195,4 +177,8 @@ Something exciting coming soon...
 
 ---
 
-Made with ❤️ in Chattogram, Bangladesh
+<div align="center">
+
+### Made with ❤️ in Chattogram, Bangladesh
+
+</div>
